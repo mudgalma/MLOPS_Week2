@@ -8,7 +8,6 @@ This project demonstrates training a simple **Decision Tree** classifier on the 
 
 - **Dataset**: Iris (from scikit-learn)
 - **Algorithm**: Decision Tree Classifier
-- **Environment**: Jupyter Notebook
 
 ---
 
