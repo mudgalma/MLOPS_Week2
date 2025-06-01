@@ -13,7 +13,6 @@ This project demonstrates training a simple **Decision Tree** classifier on the 
 ---
 
 ## 🗂️ Project Structure
-
 project/
-├── iris_classifier.ipynb # Jupyter Notebook for training the model
-└── README.md # Project documentation (this file)
+- ├── iris_classifier.ipynb # Jupyter Notebook for training the model
+- └── README.md # Project documentation (this file)
